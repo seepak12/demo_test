@@ -1,1 +1,1 @@
-I just pushed a text file from Git Bash. 
+I just pushed a text file from Git Bash Commandline. 
